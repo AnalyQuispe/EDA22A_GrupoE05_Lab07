@@ -3,7 +3,7 @@
         <tbody>
             <tr>
                 <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://github.com/rescobedoq/pw2/blob/main/epis.png?raw=true"><img src="https://github.com/rescobedoq/pw2/raw/main/epis.png?raw=true" alt="EPIS" style="width: 50%; max-width: 100%;"></a>
+                    <a rel="noopener noreferrer" href="https://github.com/rescobedoq/pw2/blob/main/epis.png?raw=true"><img src="https://github.com/rescobedoq/pw2/raw/main/epis.png?raw=true" alt="EPIS" style="width: 50%; max-width: 100%;"></a>
                 </td>
                 <th>
                     <span>UNIVERSIDAD NACIONAL DE SAN AGUSTIN</span><br>
