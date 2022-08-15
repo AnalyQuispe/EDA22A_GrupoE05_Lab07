@@ -99,7 +99,6 @@
                         <li>
                             Explicación
                             <br>
-                            <img src="images/captura1.png" alt="Repositori>
                         </li>
                     </ol>
                 </td>
